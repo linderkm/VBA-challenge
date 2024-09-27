@@ -1,6 +1,14 @@
 # VBA-challenge (Kevin Linder)
 Module 2 Challenge- VBA
 
+Code for this assignment is located in file stock_analysis.vbs
+
+Multiple_year_stock_data.xlsm is inluded with work.
+
+Two screenshots showing work are included as well.
+
+
+-----------------------------------------------------------
 
 In this README, I will include sources used for code written in my Module 2 VBA challenge assignment. 
 
