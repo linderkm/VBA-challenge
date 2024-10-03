@@ -31,3 +31,5 @@ Sources are referenced in the code using (n).
 (7) https://learn.microsoft.com/en-us/office/vba/api/excel.range.style
 
 (8)Module 2.3 activities 7
+
+(9)
